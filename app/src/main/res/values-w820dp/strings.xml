@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="text_login">LOGIN</string>
+	<string name="username">email</string>
+	<string name="password">Password</string>
+	<string name="eventKampus">Event Kampus</string>
+	<string name="eventLuar">Event Luar Kampus</string>
+	<string name="masukkan_date">DD-MM-YYYY</string>
+	<string name="masukkan_time">HH:MM</string>
+	<string name="deskripsi">Deskripsi Event</string>
+	<string name="img_user">image</string>
+</resources>

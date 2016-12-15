@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_7211b4abd67805afff98fe6bc6fa763d1cd5d337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_646f3dbc22c68ee7f5f49f4ec9cc14552eb19c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_38604ebaac058f912ca3d8bce25942b32daac77a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_38cad8bf923df843ee931428de6b61641d0494c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_12c7fcb351ee03dd107426e8ee6e1b140b9ed083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_7045ae64f7668d0b506ae6281bb4d6d81755d2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_45813b277aa391369ee0ee984ed9298c81916bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_1ec0c2685ab1b162364a296f8f5361b2791f7932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_dc3a204dd15021699d18957128f5271f0051b07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_240084cfdadb534fea587e84cbd11710bcda26eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_6114e6a43a0ca40ddd7e083e01c7a6a418f85f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_fe759786c6ba77bacfac5c11a5c1c0c4fe94d0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_02723f1a12f13a3cd4b8062ae35492575b4d8298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.6.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38c0f2d5be3c27ed0adf9aebe7b8e3aa0d78b9fb">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.6.2_9a12917093cc42361851c461e01ce6cac9a4c45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_82948b4b36433974cd6c3724e56450e3228eeb52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_76ef8716c9c6e4df0ba2dea7d38cd91c94f4910b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_120f2b9e1b406ae902022c5c971712a1cc157d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.4.0\22f40cd3f01849c6deeab0a755d2082b2624581\butterknife-compiler-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="022f40cd3f01849c6deeab0a755d2082b2624581">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\butterknife-compiler-8.4.0_ed34bbe2486ff5be04b9d1a0fd6980e7493eac99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_6b95c29d7e6782c0501eff715555d0cd081cd742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_2149fe9668951e303fd147751de1bd26f78d8420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\auto-service-1.0-rc2_e3359229fda1da0679f36faacadb4e485f1a60a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_eafa5cac8fc7b6b8e9a37922df8b26b27e94ea6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_089c477fc644aec6a72a5bca34c6147980327fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_bf63ce6729da926490c90ce3579d0b409cb10c28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_31d6efa91665321c66132a0b80bb252da36a8368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_b2c2bbc47c64b4d3e4028aaec7a12022b0d0394c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5cb8818da9237b946129943a6398cc3bc75edd9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\glide-3.7.0_501a4382166ad2cf0bd43997a152a671aaf8fe64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_f6fc8a92e031df4f7750237a806d5e27284b4565.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.14.1_b2201dfa8e739b6083962df709a39895e8274f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4e05588d10a6a4c7306181975f7dc2b4f2ada1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6cd4c9182fe06f5dbfe1b198e8a5264e0ca78a04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_bba6b9320ee11f0a9336bb4dcf2daa262f176167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_d91b29372a8356b011ac4120054225d853871ea3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_89e77f4dd773e326dfe1479064f369e4d50c9a80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c52381208f791d022bdd181ba6b34322af5a7d9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_dcb80dceeb9bff629a7a702cdf42721e05116d95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_5876408c7fc82f5e58347b2c151a012374b67619.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.6\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\auto-common-0.6_7bda4d44a34cf8183626f09c1e0f2a7bd1cc8cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d210edebf8e8c9bbed72ec6a6a1622401aeb0684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_93bfdc35d7fbc85a01c1b95fae619550fbeb516a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_dd2c3b6e4a73d61df534cd9762e11389a50b065d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.7.0\4fdcf1fc27c1a8f55d1109df986c923152f07759\javapoet-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fdcf1fc27c1a8f55d1109df986c923152f07759">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\javapoet-1.7.0_894155b6c28511cab8ab437f1d1ce8fccc35877c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_1de752eba51ee78b9245d636778d264a22ba07a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_d446e8e26db6cb60e540d75de0d9f8e22cd8fb56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_5cd05770ba29e1c7788c44e47207e0d3fe3cd1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_95f442d0eb2f19dc86744f77607b84c1b5d7e383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_4dce6d7484a7fb22ed2f75d2593ef97230d16d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_fed1273eb72339effa91963d8002a56de08ea4d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\RofiqoFF\Documents\GitHub\PoChat3\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_87e1a931a078b5501ae8b7948740c7c25ea73704.jar" />
+    </item>
+
+</items>

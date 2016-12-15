@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "817184257667",
+    "firebase_url": "https://pochat-7cd09.firebaseio.com",
+    "project_id": "pochat-7cd09",
+    "storage_bucket": "pochat-7cd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817184257667:android:c36501a298b91562",
+        "android_client_info": {
+          "package_name": "app.pochat.rofiqoff.com.pochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817184257667-q53k77sstvdvv5u0tpg784icus64kb5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.pochat.rofiqoff.com.pochat",
+            "certificate_hash": "274A7D169295C6F26B95289CA0528FFEF15900FB"
+          }
+        },
+        {
+          "client_id": "817184257667-1t981qodanp8t0oo5hl353r2rvc01b53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpJtcTa7saKxAyWqz7WQWDpSnhesVjuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817184257667-1t981qodanp8t0oo5hl353r2rvc01b53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

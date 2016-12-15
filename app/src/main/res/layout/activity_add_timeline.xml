@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/activity_add_timeline"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#FFFFFF"
+	android:orientation="vertical"
+	tools:context=".activity.AddTimelineActivity">
+
+	<include
+		android:id="@+id/toolbarActivityTimeLine"
+		layout="@layout/toolbar"/>
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:padding="16dp">
+
+			<RadioGroup
+				android:id="@+id/radioGroup_event"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:orientation="horizontal">
+
+				<RadioButton
+					android:id="@+id/radioButton_eventKampus"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:checked="true"
+					android:text="@string/eventKampus"/>
+
+				<RadioButton
+					android:id="@+id/radioButton_eventLuar"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:text="@string/eventLuar"/>
+
+			</RadioGroup>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_marginTop="12dp">
+
+				<EditText
+					android:id="@+id/editText_date"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="1dp"
+					android:hint="@string/masukkan_date"
+					android:maxLines="1"
+					android:paddingLeft="20dp"
+					android:paddingRight="20dp"
+					android:singleLine="true"
+					android:textColor="@color/primary"
+					android:textColorHint="@color/divider"
+					android:textSize="20sp"
+					android:layout_weight="1"
+					android:enabled="false"/>
+
+				<Button
+					android:id="@+id/btn_date"
+					android:layout_width="match_parent"
+					android:layout_height="40dp"
+					android:background="@drawable/custom1"
+					android:layout_weight="3"
+					android:text="Tanggal"
+					android:textColor="@color/primary"/>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="horizontal"
+				android:layout_marginTop="12dp">
+
+				<EditText
+					android:id="@+id/editText_Time"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="1dp"
+					android:hint="@string/masukkan_time"
+					android:maxLines="1"
+					android:paddingLeft="20dp"
+					android:paddingRight="20dp"
+					android:singleLine="true"
+					android:textColor="@color/primary"
+					android:textColorHint="@color/divider"
+					android:textSize="20sp"
+					android:layout_weight="1"
+					android:enabled="false"/>
+
+				<Button
+					android:id="@+id/btn_time"
+					android:layout_width="match_parent"
+					android:layout_height="40dp"
+					android:background="@drawable/custom1"
+					android:layout_weight="3"
+					android:text="Pukul"
+					android:textColor="@color/primary"/>
+			</LinearLayout>
+
+			<EditText
+				android:id="@+id/editText_deskripsi"
+				android:layout_width="match_parent"
+				android:layout_height="200dp"
+				android:layout_marginTop="16dp"
+				android:background="@drawable/custom1"
+				android:gravity="top"
+				android:hint="@string/deskripsi"
+				android:padding="12dp"
+				android:textColor="@color/primary"
+				android:textColorHint="@color/divider"/>
+
+
+			<ImageView
+				android:id="@+id/imagePoster"
+				android:layout_width="match_parent"
+				android:layout_height="250dp"
+				android:layout_marginTop="16dp"
+				android:src="@drawable/ic_add_a_photo_white_48px"
+				android:background="@drawable/custom2"/>
+
+		</LinearLayout>
+
+	</ScrollView>
+
+</LinearLayout>
